@@ -33,6 +33,7 @@ Usuario → Modelo → Servidor MCP → PostgreSQL (Pagila)
 python main.py
 ```
 ##Pruebas
+
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/99e63443-3150-485b-ae20-a12620139e22" />
 
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/df259391-bdb5-4dcc-a53b-9a0e9b2ff700" />
@@ -45,3 +46,4 @@ python main.py
 
 
    
+
